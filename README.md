@@ -7,8 +7,7 @@ Testing
 
     Git clone:
 
-$ git clone https://github.com/Rebecasarai/JTesting.git
-$ cd JTesting
+$ git clone https://github.com/salatti7/paraexamen1.git
 
     Compilamos primeramente la clase Math.java dando la dirección de los jars, recordando la dependencia:
 
